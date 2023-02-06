@@ -1,0 +1,5 @@
+cloud devops exp1
+Deploy to GitHub via Git : A Practical 
+• Install Git and set up your GitHub account 
+• Execute the most popular commands in Git 
+• Push all the files from local repository to GitHub.
